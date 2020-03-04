@@ -1,0 +1,5 @@
+i made aprogram that  simulate  memory allocation in c 
+
+i made function called memorygeneratore() that 
+generate memory in hexdecimal and use it to allocate 
+value to that address

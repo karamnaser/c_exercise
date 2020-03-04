@@ -1,0 +1,8 @@
+i made aprogram that simulate file uploading in c
+
+the function takes adestination and file path 
+
+make abuffer of the file and write it on picked destination
+
+ 
+
